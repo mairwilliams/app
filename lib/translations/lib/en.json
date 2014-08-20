@@ -124,6 +124,7 @@
   "Firstname": "Firstname",
   "Lastname": "Lastname",
   "Re-type password": "Re-type password",
+  "By signing up you are accepting our": "By signing up you are accepting our",
   "Signup now!": "Signup now!",
   "Welcome, {name}!": "Welcome, {name}!",
   "Your sign up data was received. We sent you an email so you can validate your email address.": "Your sign up data was received. We sent you an email so you can validate your email address.",
@@ -166,6 +167,7 @@
   "Abstain": "Abstain",
   "Yes": "Yes",
   "Cancel": "Cancel",
+  "and": "and",
   "Edit": "Edit",
   "Delegate": "Delegate",
   "Delegate to": "Delegate to",
@@ -174,7 +176,7 @@
   "Results will be shown when this law is closed": "Results will be shown when this law is closed",
   "Summary": "Summary",
   "Chart": "Chart",
-  
+
   "Clause": "Clause",
   "read more": "Read more",
   "view more": "view more",

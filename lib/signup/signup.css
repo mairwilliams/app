@@ -5,3 +5,8 @@ body header.app-header .user-nav a[href="/signup"] {
 form .form-group label {
   display:block;
 }
+
+form .form-group p.help-block a {
+  margin: 0 4px;
+  display: inline-block;
+}
