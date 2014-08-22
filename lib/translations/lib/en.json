@@ -14,6 +14,10 @@
   "header.settings": "Settings",
   "header.feedback": "Feedback",
 
+  "how it works.title": "How it works?",
+  "how it works.link": "click here",
+  "how it works.ok-button": "Ok, I got it!",
+
   "Incorrect password": "Incorrect password",
   "Incorrect username": "Incorrect username",
   "Field %s is not set": "Field %s is not set",

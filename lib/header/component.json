@@ -12,7 +12,8 @@
     "render",
     "snapper",
     "user-badge",
-    "view"
+    "view",
+    "how-it-works"
   ],
   "scripts": [
     "index.js",
