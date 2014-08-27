@@ -8,6 +8,7 @@
     "component/popover": "1.1.0",
     "component/cookie": "1.0.1",
     "ripplejs/ripple": "0.5.3",
+    "visionmedia/page.js": "1.3.7",
     "component/t": "1.0.0"
   },
   "local": [
