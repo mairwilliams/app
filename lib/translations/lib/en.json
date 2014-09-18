@@ -14,6 +14,10 @@
   "header.settings": "Settings",
   "header.feedback": "Feedback",
 
+  "how it works.title": "How does this work?",
+  "how it works.tell-more": "Tell me more",
+  "how it works.got-it": "Ok, I got it",
+
   "Incorrect password": "Incorrect password",
   "Incorrect username": "Incorrect username",
   "Field %s is not set": "Field %s is not set",
@@ -44,6 +48,12 @@
   "Your password was successfuly updated": "Your password was successfuly updated",
   "Current password is invalid": "Current password is invalid",
   "Please wait": "Please wait",
+
+  "settings.notifications.title": "Notifications settings",
+  "settings.notificatinos.get-email-when": "Get an email when",
+  "settings.notifications.new-topic": "A new topic gets published",
+  "settings.notificatoins.someone-replies-your-comments": "Someone replies one of your comments",
+  "settings.notifications.someone-mentions-in-their-comment": "Someone mentions you in one of their comments",
 
   "validators.required": "Required",
   "validators.checked": "Required checked field",
@@ -128,6 +138,7 @@
   "Firstname": "Firstname",
   "Lastname": "Lastname",
   "Re-type password": "Re-type password",
+  "By signing up you are accepting our": "By signing up you are accepting our",
   "Signup now!": "Signup now!",
   "Welcome, {name}!": "Welcome, {name}!",
   "Your sign up data was received. We sent you an email so you can validate your email address.": "Your sign up data was received. We sent you an email so you can validate your email address.",
@@ -171,6 +182,7 @@
   "Abstain": "Abstain",
   "Yes": "Yes",
   "Cancel": "Cancel",
+  "and": "and",
   "Edit": "Edit",
   "Delegate": "Delegate",
   "Delegate to": "Delegate to",
