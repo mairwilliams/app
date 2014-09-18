@@ -20,5 +20,6 @@
   ],
   "styles": [ "styles.styl" ],
   "templates": [ "template.jade" ],
+  "images": ["logo.png"],
   "main": "index.js"
 }
