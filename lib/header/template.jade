@@ -17,6 +17,8 @@
     a(href='/signup').login.pull-right.anonymous-citizen
       i.icon-user
       span= t('header.signup')
+    a(href='/help/faq').login.pull-left
+      span.hiw= t('how it works.title')
     a.login.pull-left(href=config['organization url'], target='_blank')
       span= config['organization name']
     //- a.login.pull-left(href='#', id='feedback')
