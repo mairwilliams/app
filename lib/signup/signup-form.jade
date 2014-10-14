@@ -23,6 +23,7 @@
       .form-group
         label= t('Re-type password')
         input.form-control(type='password', name='re_password', tabindex=5, placeholder=t('Repeat Password'), validate='required same:password')
+      .form-group#recaptcha
       .form-group: button.btn.btn-success.btn-block.btn-lg(tabindex=6)=t('Signup now!')
       .form-group
         - var tos = config['tos'];
