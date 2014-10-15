@@ -30,6 +30,7 @@
   "Email is not valid": "Correo electrónico no válido",
   "A firstname is required": "Se requiere un nombre real",
   "A lastname is required": "Se requiere un apellido real",
+  "The CAPTCHA solution was incorrect": "El CAPTCHA es incorrecto",
 
   "Profile": "Perfil",
   "Sessions": "Sesiones",
@@ -132,6 +133,7 @@
   "By signing up you are accepting our": "Registrándote estás aceptando nuestros",
   "Password": "Contraseña",
   "Repeat Password": "Repetir contraseña",
+  "Type the words shown in the image": "Introduce las palabras de la imagen",
   "Reset Password!": "¡Reestablecer contraseña!",
   "Forgot Password?": "¿Olvidaste tu contraseña?",
   "DemocracyOS markdown": "DemocracyOS markdown",
