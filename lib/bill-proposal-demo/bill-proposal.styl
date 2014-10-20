@@ -1,0 +1,82 @@
+
+bill-proposal-big()
+  .bill-proposal
+    .author-wrapper
+      text-align: center
+
+    .pic
+      float: left;
+      width: 45%
+      margin-right: 5%
+      width: calc(50% - 1em)
+      margin-right: calc(1em)
+
+
+.bill-proposal
+  clearfix()
+  font-size: 10px
+  padding: 1em
+  border-radius: 3px
+  background-color: #ebeff0
+
+  h1
+    margin: 0 0 .7em
+    padding: 1em .5em
+    font-size: 1.9em
+    color: #fff
+    font-weight: 200
+    text-align: center
+    text-transform: uppercase
+    border-top-left-radius: 3px
+    border-top-right-radius: 3px
+    background-color: #26ab73
+
+  .author
+    display: inline-block
+    position: relative
+    margin: 0 0 1.8em
+    padding-left: 3.6em
+
+    img
+      display: inline-block
+      position: absolute
+      left: 0
+      top: 50%
+      margin-top: -1.5em;
+      width: 3em
+      height: 3em
+      border-radius: 100%
+    p
+      display: inline-block
+      font-size: 1.3em
+      margin: 0
+
+      &:after
+        content: '\00a0\00a0/\00a0\00a0'
+
+      &:last-child:after
+        content: ''
+
+      a
+        color: #000
+        text-decoration: none
+        border-bottom: 1px solid transparent
+        transition: all .1s ease-in
+        &:hover
+          color: #333
+          border-bottom: 1px solid #666
+
+  .pic
+    position: relative
+    margin-bottom: 1em
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center center
+    span
+      display: block
+      padding-top: 45%
+
+  .desc
+    font-size: 1.7em
+    line-height: 1.5
+    color: #000

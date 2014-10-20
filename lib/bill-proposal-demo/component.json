@@ -1,0 +1,16 @@
+{
+  "name": "bill-proposal-demo",
+  "description": "",
+  "dependencies": {
+    "visionmedia/page.js": "1.3.7",
+    "visionmedia/jade": "1.1.5",
+    "component/bus": "^0.0.2"
+  },
+  "locals": [
+    "render"
+  ],
+  "styles": [ "styles.styl", "bill-proposal.styl" ],
+  "scripts": [ "bill-proposal-demo.js" ],
+  "templates": [  ],
+  "main": "bill-proposal-demo.js"
+}
