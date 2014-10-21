@@ -19,8 +19,10 @@
       span= t('header.signup')
     a(href='/about').login.pull-left
       span.hiw= t('header.about')
+    a(href='/projects').login.pull-left
+      span.hiw= t('header.projects')
 
-    a.login.pull-left(href=config['organization url'], target='_blank')
-      span= config['organization name']
+    //- a.login.pull-left(href=config['organization url'], target='_blank')
+    //-   span= config['organization name']
     //- a.login.pull-left(href='#', id='feedback')
     //-   span= t('header.feedback')
