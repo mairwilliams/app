@@ -9,7 +9,10 @@
   "locals": [
     "render"
   ],
-  "styles": [ "styles.styl", "bill-proposal.styl" ],
+  "styles": [
+    "bill-proposal.styl",
+    "styles.styl"
+  ],
   "scripts": [ "bill-proposal-demo.js" ],
   "templates": [  ],
   "main": "bill-proposal-demo.js"
