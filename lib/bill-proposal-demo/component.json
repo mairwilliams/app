@@ -13,6 +13,11 @@
     "bill-proposal.styl",
     "styles.styl"
   ],
+  "images": [
+    "images/prev.svg",
+    "images/next.svg",
+    "images/clip.svg"
+  ],
   "scripts": [ "bill-proposal-demo.js" ],
   "templates": [  ],
   "main": "bill-proposal-demo.js"
