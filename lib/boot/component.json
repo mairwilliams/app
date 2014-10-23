@@ -28,6 +28,7 @@
     "header",
     "logout",
     "help",
+    "bill-proposal-demo",
     "404"
   ],
   "scripts": [ "boot.js" ],
