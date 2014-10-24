@@ -22,18 +22,18 @@
 
     .actions
       .vote-selector
-        h2 ¿Qué tanto te interesa este proyecto?
+        h2=t('voting.options.title')
         ul
           li
-            span Nada
+            span=t('voting.options.nothing')
           li
-            span Poco
+            span=t('voting.options.little')
           li
-            span Algo
+            span=t('voting.options.somewhat')
           li.active
-            span Mucho
+            span=t('voting.options.very')
 
       .prev
-        span Volver
+        span=t('common.back')
       .next
-        span Saltear
+        span=t('common.skip')

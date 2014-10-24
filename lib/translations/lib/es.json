@@ -3,6 +3,7 @@
   "common.ok": "Aceptar",
   "common.cancel": "Cancelar",
   "common.back": "Volver",
+  "common.skip": "Saltear",
 
   "DemocracyOS": "DemocracyOS",
   "header.logo": "demOS",
@@ -375,5 +376,11 @@
   "projects.title.1": "¿Cómo se eligieron los proyectos?",
   "projects.paragraph.1.1": "Los 20 proyectos fueron distribuidos proporcionalmente de acuerdo al número de diputados de los distintos bloques parlamentarios, con un mínimo de 1 proyecto por bloque. Por eso, todos los bloques están representados pero aquellos que tienen una representación mayor cuentan con más cantidad de proyectos.",
   "projects.paragraph.1.2": "Dentro de cada bloque, los proyectos fueron nominados por su Presidencia.",
-  "projects.title.2": "¿Cuáles son todos los proyectos?"
+  "projects.title.2": "¿Cuáles son todos los proyectos?",
+
+  "voting.options.title": "¿Cuánto te interesa este proyecto?",
+  "voting.options.nothing": "Nada",
+  "voting.options.little": "Poco",
+  "voting.options.somewhat": "Algo",
+  "voting.options.very": "Mucho"
 }
