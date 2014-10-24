@@ -8,7 +8,8 @@
   },
   "locals": [
     "render",
-    "view"
+    "view",
+    "laws"
   ],
   "styles": [
     "bill-proposal.styl",

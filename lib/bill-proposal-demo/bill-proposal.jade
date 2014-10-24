@@ -33,7 +33,9 @@
           li.active
             span=t('voting.options.very')
 
-      .prev
-        span=t('common.back')
-      .next
-        span=t('common.skip')
+      - if (previousLaw)
+        .prev
+          span=t('common.back')
+      - if (nextLaw)
+        .next
+          span=t('common.skip')
