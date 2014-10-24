@@ -7,7 +7,8 @@
     "component/bus": "^0.0.2"
   },
   "locals": [
-    "render"
+    "render",
+    "view"
   ],
   "styles": [
     "bill-proposal.styl",
@@ -18,7 +19,7 @@
     "images/next.svg",
     "images/clip.svg"
   ],
-  "scripts": [ "bill-proposal-demo.js" ],
-  "templates": [  ],
-  "main": "bill-proposal-demo.js"
+  "scripts": [ "view.js" ],
+  "templates": [ "bill-proposal.jade" ],
+  "main": "view.js"
 }
