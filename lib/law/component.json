@@ -18,7 +18,8 @@
     "proposal-article",
     "proposal-options",
     "comments-view",
-    "browser-lock"
+    "browser-lock",
+    "bill-proposal-demo"
   ],
   "scripts": [ "law.js" ],
   "styles": [ ],

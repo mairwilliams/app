@@ -1,38 +1,39 @@
-article.bill-proposal
-  .main-content
-    h1 Ley de agroecología urbana
+#bill-proposal-demo-show
+  article.bill-proposal
+    .main-content
+      h1(style='background-color: #{law.backgroundColor}; color: #{law.fontColor}')=law.mediaTitle
 
-    .author-wrapper
-      .author
-        img(src="http://onlineshop.origamiorigami.com/photos/product/g/gil-scott-heron-free-will-256px-256px.jpg")
-        p
-          span Autor:&nbsp;
-          a(href="#") Pablo Bergel
-        p
-          span Bloque:&nbsp;
-          a(href="#") Bloque Bien Común
+      .author-wrapper
+        .author
+          img(src=law.authorPictureUrl)
+          p
+            span=t('admin-laws-form.label.author') + ': '
+            a(href=law.authorUrl, target='_blank')=law.author
+          p
+            span=t('admin-laws-form.label.party') + ': '
+            a(href=law.partyUrl, target='_blank')=law.party
 
-    .pic(style="background-image: url(http://cdn.mejorconsalud.com/wp-content/uploads/2013/10/huerta-500x325.jpg)")
-      span
+      .pic(style="background-image: url(#{law.picture})")
+        span
 
-    p.desc El objetivo es promover en la Ciudad prácticas agroecológicas como un sistema de producción, distribución, consumo y compostaje. Esto se logra mediante la promoción de la agricultura urbana, los mercados agroecológicos, integrando nivel familiar, institucional (escuelas y hospitales) y barrial.
+      p.desc=law.summary
 
-    a.link(href="#") Ver texto original
+      a.link(href=law.source, target='_blank')=t('View the original text')
 
-  .actions
-    .vote-selector
-      h2 ¿Qué tanto te interesa este proyecto?
-      ul
-        li
-          span Nada
-        li
-          span Poco
-        li
-          span Algo
-        li.active
-          span Mucho
+    .actions
+      .vote-selector
+        h2 ¿Qué tanto te interesa este proyecto?
+        ul
+          li
+            span Nada
+          li
+            span Poco
+          li
+            span Algo
+          li.active
+            span Mucho
 
-    .prev
-      span Volver
-    .next
-      span Saltear
+      .prev
+        span Volver
+      .next
+        span Saltear
