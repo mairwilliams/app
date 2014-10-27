@@ -378,9 +378,14 @@
   "projects.paragraph.1.2": "Dentro de cada bloque, los proyectos fueron nominados por su Presidencia.",
   "projects.title.2": "¿Cuáles son todos los proyectos?",
 
-  "voting.options.title": "¿Cuánto te interesa este proyecto?",
-  "voting.options.nothing": "Nada",
-  "voting.options.little": "Poco",
-  "voting.options.somewhat": "Algo",
-  "voting.options.very": "Mucho"
+  "scoring.options.title": "¿Cuánto te interesa este proyecto?",
+  "scoring.options.nothing": "Nada",
+  "scoring.options.little": "Poco",
+  "scoring.options.somewhat": "Algo",
+  "scoring.options.very": "Mucho",
+  "scoring.options.change-score": "Quiero cambiar mi calificación",
+  "scoring.value.nothing": "Este proyecto no te interesa <strong>nada</strong>",
+  "scoring.value.little": "Este proyecto te interesa <strong>poco</strong>",
+  "scoring.value.somewhat": "Este proyecto te interesa <strong>algo</strong>",
+  "scoring.value.very": "Este proyecto te interesa <strong>mucho</strong>"
 }
