@@ -21,16 +21,16 @@
       a.link(href=law.source, target='_blank')=t('View the original text')
 
     .actions
-      .vote-selector
+      .score-selector
         h2=t('voting.options.title')
         ul
-          li
+          li.score.score-nothing
             span=t('voting.options.nothing')
-          li
+          li.score.score-little
             span=t('voting.options.little')
-          li
+          li.score.score-somewhat
             span=t('voting.options.somewhat')
-          li.active
+          li.score.score-very
             span=t('voting.options.very')
 
       - if (previousLaw)

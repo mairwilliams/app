@@ -19,7 +19,8 @@
     "proposal-options",
     "comments-view",
     "browser-lock",
-    "bill-proposal-demo"
+    "bill-proposal-demo",
+    "laws"
   ],
   "scripts": [ "law.js" ],
   "styles": [ ],
