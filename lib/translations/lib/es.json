@@ -363,6 +363,8 @@
   "side-comments.delete.confirmation": "¿Deseas eliminar este comentario?",
   "side-comments.confirmation.title": "Eliminar comentario",
 
+  "global.title": "¿Qué leyes querés que debatamos?",
+
   "about.title.1": "¿Qué es DEMOS?",
   "about.paragraph.1.1": "DEMOS, desarrollado por Democracia en Red con el apoyo de la Legislatura Porteña, es un proyecto diseñado para introducir nuevos mecanismos de participación ciudadana en la Legislatura y, así, generar mayor conciencia cívica entre los ciudadanos.",
   "about.paragraph.1.2": "DEMOS, se desarrolla en dos instancias: <br>en primer lugar, la SELECCIÓN de Proyectos de Ley <br>en segundo lugar, el DEBATE online de los Proyectos seleccionados.",

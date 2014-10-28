@@ -8,8 +8,9 @@
 
 #bill-proposal-demo-show
   article.bill-proposal
+    h1=t('global.title')
     .main-content
-      h1(style='background-color: #{law.backgroundColor}; color: #{law.fontColor}')=law.mediaTitle
+      h2(style='background-color: #{law.backgroundColor}; color: #{law.fontColor}')=law.mediaTitle
 
       .author-wrapper
         .author
