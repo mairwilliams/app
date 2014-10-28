@@ -10,7 +10,7 @@
   "locals": [
     "view"
   ],
-  "images": [ "images/cover.png" ],
+  "images": [ "images/cover.png", "images/question-mark.svg" ],
   "scripts": [ "about.js", "view.js" ],
   "styles": [ "styles.styl" ],
   "templates": [ "template.jade" ],
