@@ -1,32 +1,32 @@
 Términos y Condiciones
 ======
 
-Este acuerdo de Términos de Uso establece las condiciones para formar parte y hacer uso del sitio *demos.legislatura.gov.ar* (o *.gob.ar*) (en adelante, *DEMOS*), promovido por la Legislatura de la Ciudad de Buenos Aires.  
+Este acuerdo de Términos de Uso establece las condiciones para formar parte y hacer uso del sitio *demos.legislatura.gov.ar* (o *.gob.ar*) (en adelante, *DEMOS*), promovido por la Legislatura de la Ciudad de Buenos Aires.
 
-La plataforma *DEMOS* sigue los principios de “informar-debatir-votar”. “Informar” supone facilitar el acceso a datos fidedignos y a los diferentes punto de vista, expresados de la manera más neutral posible. “Debatir” supone promover un diálogo en el que sea posible persuadir y ser persuadidos. “Votar” supone sentar posición sobre el tema informado y debatido, según las posibilidades que brinda el sistema político.  
+La plataforma *DEMOS* sigue los principios de “informar-debatir-votar”. “Informar” supone facilitar el acceso a datos fidedignos y a los diferentes punto de vista, expresados de la manera más neutral posible. “Debatir” supone promover un diálogo en el que sea posible persuadir y ser persuadidos. “Votar” supone sentar posición sobre el tema informado y debatido, según las posibilidades que brinda el sistema político.
 
-La participación es libre y voluntaria. La comunidad que buscamos consolidar está formada por ciudadanas y ciudadanos que tienen interés en incidir en el curso legislativo de los proyectos tratados en la Legislatura. Como tal, dicha comunidad es una que respeta la diversidad de opiniones, criterios y posturas personales.  
+La participación es libre y voluntaria. La comunidad que buscamos consolidar está formada por ciudadanas y ciudadanos que tienen interés en incidir en el curso legislativo de los proyectos tratados en la Legislatura. Como tal, dicha comunidad es una que respeta la diversidad de opiniones, criterios y posturas personales.
 
 Si te interesa ser parte de _DEMOS_, sólo te pedimos que al participar orientes tu proceder según las reglas que siguen y que regulan nuestro proceder.
 
-- La plataforma es un espacio pensado para la discusión sin hipocresías pero que exige el diálogo constructivo, franco y tolerante, en el que todos los puntos de vista tengan lugar si se manifiestan con respeto.  
+- La plataforma es un espacio pensado para la discusión sin hipocresías pero que exige el diálogo constructivo, franco y tolerante, en el que todos los puntos de vista tengan lugar si se manifiestan con respeto.
 Por eso, **opinar en _DEMOS_ requiere que no ofendas, no insultes a otras personas y no promuevas actitudes discriminatorias.**
-- La calidad de las conversaciones depende de nuestra manera de compartir argumentos y opiniones.  
-La crítica sin fundamentos empobrece el diálogo, buscamos que la intervención sea a partir de argumentos que sumen al debate  
+- La calidad de las conversaciones depende de nuestra manera de compartir argumentos y opiniones.
+La crítica sin fundamentos empobrece el diálogo, buscamos que la intervención sea a partir de argumentos que sumen al debate
 Por eso, **se pueden calificar los argumentos de acuerdo a si contribuyen al debate general o no contribuyen.**
 - Si al participar en nuestras conversaciones, querés usar de alguna manera **contenidos (texto, imagen, audio, video) sujetos a derecho de autor, respetá el licenciamiento que esos contenidos tengan.**
-- Si bien es posible que entre las conversaciones y acciones que se desarrollen surjan algunas que tengan relación directa o indirecta con el desarrollo económico, _DEMOS_ no es un espacio para realizar negocios y su comunidad no incluirá comentarios tendientes a la búsqueda de lucro económico.  
+- Si bien es posible que entre las conversaciones y acciones que se desarrollen surjan algunas que tengan relación directa o indirecta con el desarrollo económico, _DEMOS_ no es un espacio para realizar negocios y su comunidad no incluirá comentarios tendientes a la búsqueda de lucro económico.
 Por eso, **te pedimos que en ningún caso promuevas que las conversaciones o acciones se orienten hacia tu lucro personal o el de terceros.**
 
-En el caso de que tu comportamiento no respete una o varias de estas normas de convivencia, *DEMOS* te enviará, al correo electrónico identificado en tu perfil, una comunicación solicitándote cambies tu proceder al interior de nuestra comunidad. En caso de que persistas en actitudes contrarias al espíritu de estos Términos y Condiciones, nos reservamos el derecho de suspender temporalmente o eliminar tu cuenta de usuario.  
+En el caso de que tu comportamiento no respete una o varias de estas normas de convivencia, *DEMOS* te enviará, al correo electrónico identificado en tu perfil, una comunicación solicitándote cambies tu proceder al interior de nuestra comunidad. En caso de que persistas en actitudes contrarias al espíritu de estos Términos y Condiciones, nos reservamos el derecho de suspender temporalmente o eliminar tu cuenta de usuario.
 
-En nuestra comunidad no existe censura ni se borran opiniones o comentarios, salvo aquellos que expresamente vayan contra las leyes vigentes. En aquellos casos que, sin ir contra la ley, no se respeten estas normas de convivencia, nos reservamos el derecho de reportar o eliminar opiniones o comentarios de las conversaciones en las que hayan surgido.  
+En nuestra comunidad no existe censura ni se borran opiniones o comentarios, salvo aquellos que expresamente vayan contra las leyes vigentes. En aquellos casos que, sin ir contra la ley, no se respeten estas normas de convivencia, nos reservamos el derecho de reportar o eliminar opiniones o comentarios de las conversaciones en las que hayan surgido.
 
 En el caso de que una entrada publicada en la comunidad sea parcial o totalmente un plagio de otro contenido, será eliminada de *DEMOS* sin previo aviso.
 
-Por último, te invitamos a revisar periódicamente estas reglas de comunidad. Es probable que en la medida en que *DEMOS* vaya evolucionando, hagamos algunos cambios. La Legislatura de la Ciudad de Buenos Aires se reserva el derecho de cambiar, agregar o quitar partes de este acuerdo de Términos y Condiciones, en cualquier momento. Es tu responsabilidad revisarlos antes de usar el sitio.  
+Por último, te invitamos a revisar periódicamente estas reglas de comunidad. Es probable que en la medida en que *DEMOS* vaya evolucionando, hagamos algunos cambios. La Legislatura de la Ciudad de Buenos Aires se reserva el derecho de cambiar, agregar o quitar partes de este acuerdo de Términos y Condiciones, en cualquier momento. Es tu responsabilidad revisarlos antes de usar el sitio.
 
-El uso del sitio significa que aceptas y estás de acuerdo con los Términos y Condiciones, así como aceptás que todas las visitas u operaciones subsecuentes que realices estarán sujetas a estos Términos y Condiciones.  
+El uso del sitio significa que aceptas y estás de acuerdo con los Términos y Condiciones, así como aceptás que todas las visitas u operaciones subsecuentes que realices estarán sujetas a estos Términos y Condiciones.
 
 Si querés obtener mayor información sobre estas reglas, precisar sus alcances o reportar un comportamiento que a tu juicio vulnera lo aquí indicado, puedes contactarte con escribiendo a correo@servidor.com.
 
