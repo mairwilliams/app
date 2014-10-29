@@ -9,9 +9,9 @@
 #bill-proposal-demo-show
   article.bill-proposal
     h1=t('global.title')
+    div.progress-container
     .main-content
       h2(style='background-color: #{law.backgroundColor}; color: #{law.fontColor}')=law.mediaTitle
-
       .author-wrapper
         .author
           img(src=law.authorPictureUrl)

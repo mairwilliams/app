@@ -7,7 +7,8 @@
     "visionmedia/debug": "0.7.4",
     "component/bus": "^0.0.2",
     "component/dom": "0.7.1",
-    "component/t": "1.0.0"
+    "component/t": "1.0.0",
+    "jfresco/progress": "*"
   },
   "locals": [
     "citizen",
