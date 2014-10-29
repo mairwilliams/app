@@ -389,5 +389,7 @@
   "scoring.value.nothing": "Este proyecto no te interesa <strong>nada</strong>",
   "scoring.value.little": "Este proyecto te interesa <strong>poco</strong>",
   "scoring.value.somewhat": "Este proyecto te interesa <strong>algo</strong>",
-  "scoring.value.very": "Este proyecto te interesa <strong>mucho</strong>"
+  "scoring.value.very": "Este proyecto te interesa <strong>mucho</strong>",
+
+  "footer.using-technology-from": "con tecnología de"
 }
