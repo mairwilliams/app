@@ -48,9 +48,9 @@
         - if (tos || pp)
           ul.text-center
             - if (pp)
-              li: a(href='/help/terms-of-service', target='_blank')=t('help.tos.title')
-            - if (tos)
               li: a(href='/help/privacy-policy', target='_blank')=t('help.pp.title')
+            - if (tos)
+              li: a(href='/help/terms-of-service', target='_blank')=t('help.tos.title')
   #signup-message.hide
     h1 Welcome
     p.lead.text-muted #{t('Your sign up data was received. We sent you an email so you can validate your email address.')}.

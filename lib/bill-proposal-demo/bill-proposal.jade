@@ -14,7 +14,8 @@
       h2(style='background-color: #{law.backgroundColor}; color: #{law.fontColor}')=law.mediaTitle
       .author-wrapper
         .author
-          img(src=law.authorPictureUrl)
+          a(href='#{law.authorUrl}', target='_blank')
+            img(src=law.authorPictureUrl)
           p
             span=t('admin-laws-form.label.author') + ': '
             a(href=law.authorUrl, target='_blank')=law.author
