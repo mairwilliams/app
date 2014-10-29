@@ -2,6 +2,7 @@
   "name": "admin",
   "description": "Admin page",
   "dependencies": {
+    "component/bus": "0.0.2",
     "component/events": "1.0.9",
     "component/emitter": "1.1.1",
     "component/classes": "1.2.0",
